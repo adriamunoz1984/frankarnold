@@ -1,0 +1,13 @@
+
+.box
+{
+	background-color: red;
+	border: solid black;
+	margin: 10px;
+	text-align: center;
+}
+.rows
+{
+	margin-left: 10px;
+	margin-right: 10px;
+}
