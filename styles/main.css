@@ -25,9 +25,15 @@
 {
   padding: 0 225px 0 225px;
 }
-
-
-
+/*
+body
+{
+  background-image: url("../img/concrete_texture3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 100px;
+}
+*/
 .carousel img
 {
   width: 100%;
@@ -43,15 +49,4 @@
 .ifile_img
 {
   width: 100%;
-}
-
-hr
-{
-   display: block;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: inset;
-    border-width: 3px;
 }
