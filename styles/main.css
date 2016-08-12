@@ -24,10 +24,6 @@ body
     transform: scale(1.2,1.2)
   }
 
-.rows
-{
-  margin-left: 200px;
-}
 
 
 .centered h1
@@ -40,10 +36,12 @@ body
   width: 200px;
 }
 
+/*
 .centered p
 {
   padding: 0 225px 0 225px;
 }
+
 /*
 body
 {
